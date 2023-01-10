@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.islandrose.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.islandrose.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.islandrose.net/collections/rose-gift-box.atom"/>
+  <title>islandrose.net</title>
+  <updated>2022-07-26T16:18:11+08:00</updated>
+  <author>
+    <name>islandrose.net</name>
+  </author>
+  <entry>
+    <id>https://www.islandrose.net/products/6748337078370</id>
+    <published>2022-07-26T16:18:11+08:00</published>
+    <updated>2022-07-26T16:18:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/white-delight"/>
+    <title>White Delight</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/white-delight-flowers-philippines-12-2017-2.jpg?v=1658823492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses in a Box with a Mini Bear</span>
+</h3>
+<div class="ewa-rteLine">Do you want to see her eyes twinkle in delight? Surprise her with this gorgeous box of white roses and an adorable bear! Place your orders now!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748337078370</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac57RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748331278434</id>
+    <published>2022-07-26T16:13:54+08:00</published>
+    <updated>2022-07-26T16:13:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/secret-admirer"/>
+    <title>Secret Admirer</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/secret-admirer-flowers-philippines-12-2017-2.jpg?v=1658823235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Box of Red and White Roses with Mini Bear</span></p>
+<div class="ewa-rteLine">Are you in love? We've got just the thing for you! Send her our secret admirer gift package, an unforgettable gift to show how much you care.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748331278434</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac62RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748315484258</id>
+    <published>2022-07-26T16:04:48+08:00</published>
+    <updated>2022-07-26T16:04:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/bear-y-happy-family"/>
+    <title>Bear-y Happy Family</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Bear-yHappyFamily.png?v=1658822672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2248.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Two Messenger Bears™ and Two Mini Bears</span>
+</h3>
+<div class="ewa-rteLine">Time for a Bear Sale in the "Ber Months of the year!</div>
+<div class="ewa-rteLine"></div>
+<div class="ewa-rteLine">The perfect addition to your collection of family photos and memorabilia! One happy bear to represent each member of the family!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Basket and other accessories are not included.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your gifts on time! If certain items unexpectedly become unavailable, Island Rose will replace them with items of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page or social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748315484258</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2248.20</s:price>
+      <s:sku>irpac124BHFstu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748311519330</id>
+    <published>2022-07-26T16:00:49+08:00</published>
+    <updated>2022-07-26T16:00:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-delight"/>
+    <title>Red Delight</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/red-delight-flowers-philippines-12-2017-2.jpg?v=1658822450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 class="ewa-rteLine" data-mce-fragment="1">
+<meta charset="utf-8">
+<span>Box of Red Roses with Mini Bear</span>
+</h3>
+<div class="ewa-rteLine" data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Celebrate special days with a box of red roses and a charming bear! This package is perfect when you want to remind someone how special they are. Delight someone with this gift now!</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748311519330</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac56RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747681718370</id>
+    <published>2022-07-25T23:13:44+08:00</published>
+    <updated>2022-07-25T23:13:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/precious"/>
+    <title>Precious</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/precious-rose-giftbox-philippines_ebdb7f77-f02e-4ba5-824b-3decf3921360.jpg?v=1658762025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Pale Pink Roses in a Red Keepsake Box</span></p>
+<div class="ewa-rteLine">Be spontaneous and give her a Precious surprise! Send this fresh flower arrangement of pale pink roses to brighten someone's day. That happy surprised look on her face will be priceless!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747681718370</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrPR16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747669299298</id>
+    <published>2022-07-25T23:11:23+08:00</published>
+    <updated>2022-07-25T23:11:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/classic-black"/>
+    <title>Classic Black</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/ClassicBlack.jpg?v=1658761883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Red And White Roses in a Black Keepsake Box</span></p>
+<div class="ewa-rteLine">Romance your loved one with this exquisite box of classic red and white roses. Remind them about the excitement you both had when you first met that, until now, continues to make your heart swell. Don't miss this chance to make her smile.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747669299298</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbbCL16-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747658420322</id>
+    <published>2022-07-25T23:08:48+08:00</published>
+    <updated>2022-07-25T23:08:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-canary"/>
+    <title>Red Canary</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/love-in-yellow-rose-giftbox-philippines.jpg?v=1658761764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red Roses in a Yellow Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Send your loved one a box of pure red roses and remind them how much warmth they bring to your heart. Simply love in a box.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747658420322</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbyLY16-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747641741410</id>
+    <published>2022-07-25T23:05:31+08:00</published>
+    <updated>2022-07-25T23:05:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/darling"/>
+    <title>Darling</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Darling.jpg?v=1658761531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3><span data-mce-fragment="1">Two Shades of Pink Roses in a Violet Keepsake Box</span></h3>
+<div class="ewa-rteLine">Keep your message short and simple! This lovely rose box arrangement is a favourite among patrons - perfect for that favourite person in your life. Let this darling combination of pale and deep pink roses say what is in your heart.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747641741410</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrblDA16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747592261730</id>
+    <published>2022-07-25T22:56:58+08:00</published>
+    <updated>2022-07-25T22:56:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/fresh-in-orange"/>
+    <title>Fresh in Orange</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/FreshinOrange.jpg?v=1658761018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses in an Orange Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Something about white brings out that fresh feeling that reminds you of a clear summer's day. Nothings says it better than a gift of pure white roses. Send a box of fresh white roses now!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747592261730</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrboFO16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747570634850</id>
+    <published>2022-07-25T22:52:38+08:00</published>
+    <updated>2022-07-25T22:52:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/vivid"/>
+    <title>Vivid</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Vivid.jpg?v=1658760759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red and Orange Roses in a Red Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">The vivid colours in this gorgeous rose box can awaken positive emotions in her heart. Be extraordinary for her. Surprise her with Vivid.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747570634850</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrVI16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747560116322</id>
+    <published>2022-07-25T22:48:45+08:00</published>
+    <updated>2022-07-25T22:48:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/love-in-violet"/>
+    <title>Love in Violet</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/LoveinViolet.jpg?v=1658760525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red Roses In A Violet Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Send your loved one a box of pure red roses and remind them how much warmth they bring to your heart. Simply love in a box.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747560116322</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrblLV16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747557789794</id>
+    <published>2022-07-25T22:46:26+08:00</published>
+    <updated>2022-07-25T22:46:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-elegance"/>
+    <title>Red Elegance</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RedElegance.jpg?v=1661412931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Pink Roses in a Red Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Elegant roses for that stylish person who deserves a "Thank You" for playing an important role in your life. This Red Elegance arrangement is the perfect way to express your gratitude and appreciation. Order one today!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747557789794</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrRE16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747555364962</id>
+    <published>2022-07-25T22:43:56+08:00</published>
+    <updated>2022-07-25T22:43:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/fresh-in-violet"/>
+    <title>Fresh in Violet</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/fresh-in-violet-rose-giftbox-philippines.jpg?v=1658760237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses In A Violet Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Send your loved one a box of pure white roses and remind them how much warmth they bring to your heart. Simply love in a box.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div>
+<p><span data-mce-fragment="1"><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747555364962</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrblFV16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747548123234</id>
+    <published>2022-07-25T22:35:41+08:00</published>
+    <updated>2022-07-25T22:35:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/love-in-red"/>
+    <title>Love in Red</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/love-in-red-rose-giftbox-philippines.jpg?v=1658759742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red Roses In A Red Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Send your loved one a box of pure red roses and remind them how much warmth they bring to your heart. Simply love in a box.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747548123234</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrLR16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747546517602</id>
+    <published>2022-07-25T22:33:46+08:00</published>
+    <updated>2022-07-25T22:33:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/beloved"/>
+    <title>Beloved</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/berry-rose-giftbox-philippines.jpg?v=1658759627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Pink And Red Roses In A Red Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Express your admiration with this box of roses! This selection of pink and red roses can be playful and romantic at the same time - making her blush and love you more.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747546517602</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrBE16-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747542159458</id>
+    <published>2022-07-25T22:30:02+08:00</published>
+    <updated>2022-07-25T22:30:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/violet-blush"/>
+    <title>Violet Blush</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/violet-blush-rose-giftbox-philippines.jpg?v=1658759403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White and Pink Roses in a Violet Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Do something sweet to brighten up someone's day!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Send feelings of sweet, sweet love by giving her a box of pink and white roses.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747542159458</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbvBL16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747536752738</id>
+    <published>2022-07-25T22:25:31+08:00</published>
+    <updated>2022-07-25T22:25:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/lemon-drop"/>
+    <title>Lemon Drop</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/fresh-in-yellow-rose-giftbox-philippines.jpg?v=1658759131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 class="ewa-rteLine" data-mce-fragment="1">
+<meta charset="utf-8">
+<span>White Roses in a Yellow Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine" data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Something about white brings out that fresh feeling that reminds you of a clear summer's day. Nothings says it better than a gift of pure white roses. Send a box of fresh white roses now!</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine" data-mce-fragment="1">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747536752738</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbyFY16-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747534000226</id>
+    <published>2022-07-25T22:22:59+08:00</published>
+    <updated>2022-07-25T22:22:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/classic-violet"/>
+    <title>Classic Violet</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/classic-violet-rose-giftbox-philippines.jpg?v=1658758979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red and White Roses in a Violet Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Romance your loved one with this exquisite box of classic red and white roses. Remind them about the excitement you both had when you first met that, until now, continues to make your heart swell. Don't miss this chance to make her smile</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747534000226</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbvCL16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747531804770</id>
+    <published>2022-07-25T22:21:06+08:00</published>
+    <updated>2022-07-25T22:21:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/honey"/>
+    <title>Honey</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/honey-rose-giftbox-philippines.jpg?v=1658758867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Yellow Roses in an Orange Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Cheer them up with something bright and beautiful! These yellow roses are guaranteed to put a smile on someone's face!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747531804770</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrboHO16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747529511010</id>
+    <published>2022-07-25T22:19:10+08:00</published>
+    <updated>2022-07-25T22:19:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/love-in-orange"/>
+    <title>Love in Orange</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/love-in-orange-rose-giftbox-philippines.jpg?v=1658758751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red Roses in a Orange Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Send your loved one a box of pure red roses and remind them how much warmth they bring to your heart. Simply love in a box.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747529511010</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrboLO16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747526135906</id>
+    <published>2022-07-25T22:16:27+08:00</published>
+    <updated>2022-07-25T22:16:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/fresh-in-red"/>
+    <title>Fresh in Red</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/fresh-in-red-rose-giftbox-philippines.jpg?v=1658758587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses In A Red Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Something about white brings out that fresh feeling that reminds you of a clear summer's day. Nothings says it better than a gift of pure white roses. Send a box of fresh white roses now!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747526135906</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrFR16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747522924642</id>
+    <published>2022-07-25T22:13:45+08:00</published>
+    <updated>2022-07-25T22:13:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/orange-candy-rose"/>
+    <title>Orange Candy Rose</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/candy-rose-giftbox-philippines.jpg?v=1658758426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White &amp; Orange Roses In An Orange Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">The sweetest rose combination for the special people in your life. Send a box of cheerful orange and white roses - a flawless fit for happy occasions!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747522924642</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrboCA16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

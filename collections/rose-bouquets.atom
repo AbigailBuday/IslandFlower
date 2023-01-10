@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.islandrose.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.islandrose.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.islandrose.net/collections/rose-bouquets.atom"/>
+  <title>islandrose.net</title>
+  <updated>2022-11-07T15:03:26+08:00</updated>
+  <author>
+    <name>islandrose.net</name>
+  </author>
+  <entry>
+    <id>https://www.islandrose.net/products/6808958009442</id>
+    <published>2022-11-07T15:03:26+08:00</published>
+    <updated>2022-11-07T15:03:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/circle-of-friends"/>
+    <title>Circle of Friends</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/CircleofFriends.jpg?v=1667804591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Nine Single-Stem Rose Arrangements</h3>
+<p>Everyone has that special Circle of Friends that they truly rely on day in and day out. Thank them for being in your life, making you laugh on good days, and having your back on not-so-good days.</p>
+<p>Get 9 separate single-stem arrangements delivered to your address so you can give them personally to your circle of friends!</p>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"></div>
+<div class="ewa-rteLine">
+<meta charset="utf-8"> <span>**Island Rose offers next-day delivery nationwide! Same-day delivery is available in Metro Manila.</span>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:tag>Deals</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6808958009442</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2760.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6777992740962</id>
+    <published>2022-09-17T13:04:18+08:00</published>
+    <updated>2022-09-17T13:04:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/mediterranean"/>
+    <title>Mediterranean</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Mediterranean.jpg?v=1663391059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1890.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">One Dozen Long Stem Yellow and Orange Roses</h3>
+<p data-mce-fragment="1">Need something a bit livelier? For those celebrations that need no less than the most spirited colors, orange and yellow roses should do the trick! Its vibrant and lively colors are set to pump up the atmosphere. Let's party!<br data-mce-fragment="1"><br data-mce-fragment="1">Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!<br data-mce-fragment="1"><br data-mce-fragment="1">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br data-mce-fragment="1"><br data-mce-fragment="1">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6777992740962</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1890.00</s:price>
+      <s:sku>irROcomMEl12-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756763664482</id>
+    <published>2022-08-12T15:21:13+08:00</published>
+    <updated>2022-08-12T15:21:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/sunset-premium"/>
+    <title>Sunset Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/SunsetPremium.jpg?v=1660288871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Red and Yellow Roses</h3>
+<p>There's nothing more lovelier than this bunch of wonderfully arranged roses. A combination that brings out the beauty in every day! This vibrant array of yellow and red long stem roses is an excellent surprise to come home to after a long day. These flowers energize emotions and captivate the heart.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756763664482</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomSSl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756763631714</id>
+    <published>2022-08-12T15:21:12+08:00</published>
+    <updated>2022-08-12T15:21:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/sunrise-premium"/>
+    <title>Sunrise Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/SunrisePremium.jpg?v=1660288864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Yellow and White Roses</h3>
+<p>You will not be forgotten when you send our Sunrise flower combination. Surprise someone and greet their day with the freshest bunch of white and yellow roses. Guaranteed to put a smile on their face!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756763631714</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomSRl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756732239970</id>
+    <published>2022-08-12T15:21:10+08:00</published>
+    <updated>2022-08-12T15:21:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/sun-kissed"/>
+    <title>Sun-Kissed</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Sun-kissed-MainPhoto.jpg?v=1660288842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Three Long Stem Yellow Roses</strong></p>
+<p>Pastel Love Notes are perfect for those days when you simply want to say hello or thank you. Brighten up her mood and impress her away with this pristine yellow roses! Personalize your gift with our special Island Rose greeting card with your customized message.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756732239970</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">690.00</s:price>
+      <s:sku>irROlovCHl3-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756741480546</id>
+    <published>2022-08-12T15:20:10+08:00</published>
+    <updated>2022-08-12T15:20:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/salsa-premium"/>
+    <title>Salsa Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/SalsaPremium.jpg?v=1660288806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Orange Roses</h3>
+<p>You have to save the best bunch to the most precious one! Unusually large blooms, a fresh scent and a rustic color separate this flower from the rest. One will definitely be blown away by this arrangement. If you are looking for something different, send a bunch of these roses and wait for their reaction! <br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756741480546</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2650.00</s:price>
+      <s:sku>irROsolSAl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756765991010</id>
+    <published>2022-08-12T15:20:08+08:00</published>
+    <updated>2022-08-12T15:20:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/royale-premium"/>
+    <title>Royale Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RoyalePremium.jpg?v=1660288798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Yellow and Lavender Roses</h3>
+<p>Surprise someone close to your heart on the most unexpected day! Our elegant selection of lavender and light yellow roses is surely a sweet surprise for something that is unusual. This flower arrangement is a gift that can turn an ordinary day into something truly special - a total stunner!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756765991010</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomRYl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756764778594</id>
+    <published>2022-08-12T15:20:07+08:00</published>
+    <updated>2022-08-12T15:20:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/remember-me-premium"/>
+    <title>Remember Me Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RememberMePremium.png?v=1660288784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Lavender and White Roses</h3>
+<p>Widely recognised as a "grown-up" pink, lavender sends out a sense of delicacy, nostalgia, and a romantic atmosphere. Combined with white, it gives out that feeling of remembrance - so she remembers you and your message of love from the first day you laid eyes on her.</p>
+<p><br>Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout! <br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</p>
+<p><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</p>
+<p><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756764778594</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomRMl24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756709859426</id>
+    <published>2022-08-12T15:19:01+08:00</published>
+    <updated>2022-08-12T15:19:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-passion"/>
+    <title>Red Passion</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RedPassion-MainPhoto.jpg?v=1660288731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Three Long Stem Red Roses</strong></h3>
+<p>A love note has traditionally been a symbol of eternal love and devotion. Write your message in our special Island Rose greeting card and we'll send it with long stem red roses. Express your deepest feelings - say it best with roses!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756709859426</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">690.00</s:price>
+      <s:sku>irROlovGGl3-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756736630882</id>
+    <published>2022-08-12T15:18:59+08:00</published>
+    <updated>2022-08-12T15:18:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-france-premium"/>
+    <title>Red France Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RedFrancePremium-MainPhoto.jpg?v=1660288713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Red Roses</h3>
+<p>Knock her off her feet and make her fall in love over and over again. Its vibrant red color is what the world uses to say "I love you". A favorite among all roses! A rose by which all others are measured, this elegant flower will never fail to impress. Definitely a classic!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756736630882</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2650.00</s:price>
+      <s:sku>irROsolRFl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756715462754</id>
+    <published>2022-08-12T15:18:57+08:00</published>
+    <updated>2022-08-12T15:18:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/pure-white"/>
+    <title>Pure White</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/PureWhite-MainPhoto.jpg?v=1660288697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Three Long Stem White Roses</h3>
+<p>White roses are meant to reaffirm one's commitment, fidelity and loyalty. Write your message in our special Island Rose greeting card and we'll send it with long stem white roses. Express your deepest feelings - say it best with roses!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756715462754</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">690.00</s:price>
+      <s:sku>irROlovGLl3-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756720279650</id>
+    <published>2022-08-12T15:17:28+08:00</published>
+    <updated>2022-08-12T15:17:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/pink-glow"/>
+    <title>Pink Glow</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/PinkGlow-MainPhoto.jpg?v=1660288637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Three Long Stem Salmon Pink Roses</h3>
+<p>Pastel Love Notes are perfect for those days when you simply want to say hello or thank you. Let these lovely pink flowers show your warm feelings. Send this special flower bouquet as a symbol of admiration. Personalize your gift with our special Island Rose greeting card with your customized message.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756720279650</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">690.00</s:price>
+      <s:sku>irROlovNOl3-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756765794402</id>
+    <published>2022-08-12T15:17:26+08:00</published>
+    <updated>2022-08-12T15:17:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/pastel-premium"/>
+    <title>Pastel Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/PastelPremium-MainPhoto.jpg?v=1660288614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Cream Pink and White Roses</h3>
+<p>Give this ordinary day a sweet twist! Turn something boring into a whole new light. Celebrate life with our white and peach pastel flower arrangement. Its subtle, earthy hues will bring wishes of joy, happiness, and prosperity to those who receive them.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756765794402</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomPAl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756736958562</id>
+    <published>2022-08-12T15:16:20+08:00</published>
+    <updated>2022-08-12T15:16:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/noblesse-premium"/>
+    <title>Noblesse Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/NoblessePremium.jpg?v=1660288579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Salmon Pink Roses</h3>
+<p>A true beauty in every sense. This graceful salmon pink rose variety looks astounding in a vase or as a bouquet. Let these lovely pink flowers show your warm feelings. Send this now and it will definitely put a smile to anyone's face! <br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756736958562</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2650.00</s:price>
+      <s:sku>irROsolNOl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756762746978</id>
+    <published>2022-08-12T15:15:59+08:00</published>
+    <updated>2022-08-12T15:15:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/mediterranean-premium"/>
+    <title>Mediterranean Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/MediterraneanPremium.jpg?v=1660288556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Yellow and Orange Roses</h3>
+<p>Need something a bit livelier? For those celebrations that need no less than the most spirited colors, orange and yellow roses should do the trick! Its vibrant and lively colors are set to pump up the atmosphere. Let's party!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756762746978</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomMEl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756764516450</id>
+    <published>2022-08-12T15:15:39+08:00</published>
+    <updated>2022-08-12T15:15:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/masquerade-premium"/>
+    <title>Masquerade Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/MasqueradePremium.png?v=1660288533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Red and Lavender Roses</h3>
+<p>Bold red and deep lavender are popular colours used in masks and costumes during masquerade balls to express romance, energy, and importance. The rich colours of this bouquet will recreate that atmosphere of romance and mystery for you and your loved one.</p>
+<p><br>Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout! <br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</p>
+<p><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</p>
+<p><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756764516450</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomMAl24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756741972066</id>
+    <published>2022-08-12T15:15:00+08:00</published>
+    <updated>2022-08-12T15:15:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/joanne-premium"/>
+    <title>Joanne Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/JoannePremium-MainPhoto.jpg?v=1660288491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Pink Roses</h3>
+<p>Your gratitude will never be missed with these classy deep pink roses. Reassure your loved ones that you are thankful and blessed to have them. Surprise them in the most special way by sending this lovely bunch! These flowers will surely reward you with the sweetest smile.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756741972066</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2650.00</s:price>
+      <s:sku>irROsolJOl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756741578850</id>
+    <published>2022-08-12T15:13:20+08:00</published>
+    <updated>2022-08-12T15:13:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/grand-gala-premium"/>
+    <title>Grand Gala Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/GrandGalaPremium-MainPhoto.jpg?v=1660288391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Red Roses</h3>
+<p>A symbol of beauty and perfection. This deep burgundy flower variety has large blooms and long thornless stems. A popular choice among people with a large passion for life. Use these flowers to show your deepest affection! What are you waiting for? Send a bunch of lovely red roses now!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Island Rose offers next day delivery nationwide! Same day delivery is available in Metro Manila.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756741578850</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2650.00</s:price>
+      <s:sku>irROsolGGl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756736761954</id>
+    <published>2022-08-12T15:12:30+08:00</published>
+    <updated>2022-08-12T15:12:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/gloria-premium"/>
+    <title>Gloria Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/GloriaPremium-MainPhoto.jpg?v=1660288343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem White Roses</h3>
+<p>Let her know your most sincere and purest intentions by sending her a set of white roses. In the world of flowers, this rose stands as one of the most colorful. This angelic rose variety has extra long stem and a pure white color that is unmatched in prestige and charm.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756736761954</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2650.00</s:price>
+      <s:sku>irROsolGLl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756765106274</id>
+    <published>2022-08-12T15:12:00+08:00</published>
+    <updated>2022-08-12T15:12:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/glitter-premium"/>
+    <title>Glitter Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/GlitterPremium-MainPhoto.jpg?v=1660288307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Roses in Three Shades of Pink</h3>
+<p>A dazzling blend of beautiful peach, pink, and lavender roses will definitely captivate her heart. This flower combination is unrivalled in beauty and sophistication. Glitter is a delightful gift anytime of the year and any day of the week. Definitely a charmer!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756765106274</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2990.00</s:price>
+      <s:sku>irROcomGTl24-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756763730018</id>
+    <published>2022-08-12T15:11:28+08:00</published>
+    <updated>2022-08-12T15:11:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/four-season-premium"/>
+    <title>Four Season Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/FourSeasonPremium.jpg?v=1660288279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2990.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Custom Roses</h3>
+<p>Can't think of a perfect gift? There is nothing like a personalized gift. Create your own bunch of roses! Choose up to four colors and we will pick the roses and arrange a perfect flower bouquet especially for you.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756763730018</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2990.00</s:price>
+      <s:sku>irROcomFSl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756760420450</id>
+    <published>2022-08-12T15:10:20+08:00</published>
+    <updated>2022-08-12T15:10:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/fancy-premium"/>
+    <title>Fancy Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/FancyPremium.jpg?v=1660288218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Pink and Yellow Roses</h3>
+<p>Light and cheerful is what best describes this combination. This sweet bouquet of pink and yellow roses is the perfect gift for one who appreciates a joyful life. Share every great moment by sending this arrangement with a heartful message.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756760420450</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomFAl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756765499490</id>
+    <published>2022-08-12T15:09:58+08:00</published>
+    <updated>2022-08-12T15:09:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/dusk-premium"/>
+    <title>Dusk Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/DuskPremium-MainPhoto.jpg?v=1660288187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Cream Pink and Orange Roses</h3>
+<p>A delightful arrangement of orange and peach roses for someone you want to cheer up. Convey thoughts of encouragement to your loved ones with this one of a kind bouquet of large bud roses. Cuddle them up with this special surprise! Send farm fresh flowers straight to her doorstep today.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756765499490</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomDUl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756742529122</id>
+    <published>2022-08-12T15:09:26+08:00</published>
+    <updated>2022-08-12T15:09:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/diva-premium"/>
+    <title>Diva Premium</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/DivaPremium.jpg?v=1660288164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Two Dozen Long Stem Red and Orange Roses</h3>
+<p>Dare to be different? This flashy combination of reds and oranges will be one of the most extraordinary flower bouquets you will ever send. Unique and flamboyant, the right fit for the right person.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756742529122</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2790.00</s:price>
+      <s:sku>irROcomDIl24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6756734959714</id>
+    <published>2022-08-12T15:08:55+08:00</published>
+    <updated>2022-08-12T15:08:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/deep-purple"/>
+    <title>Deep Purple</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/DeepPurple-MainPhoto.jpg?v=1660288131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Three Long Stem Lavender Roses</h3>
+<p>Pastel Love Notes are perfect for those days when you simply want to say hello or thank you. Charm her away with this bunch of enchanting and elegant lavender roses! Personalize your gift with our special Island Rose greeting card with your customized message.<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6756734959714</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">690.00</s:price>
+      <s:sku>irROlovCWl3-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

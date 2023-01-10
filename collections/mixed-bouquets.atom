@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.islandrose.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.islandrose.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.islandrose.net/collections/mixed-bouquets.atom"/>
+  <title>islandrose.net</title>
+  <updated>2022-08-11T13:04:06+08:00</updated>
+  <author>
+    <name>islandrose.net</name>
+  </author>
+  <entry>
+    <id>https://www.islandrose.net/products/6747511619682</id>
+    <published>2022-08-11T13:04:06+08:00</published>
+    <updated>2022-08-11T13:04:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/carnival"/>
+    <title>Carnival</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Carnival.png?v=1658757818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Pink and White Roses and Chrysanthemums</span>
+</h3>
+<div class="ewa-rteLine">It's a pastel carnival of colours with this enchanting bouquet in pink, white, yellow, green, and orange! Send warmth and kindness wrapped up in a box and let the flowers do the talking.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mixed Bouquet</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747511619682</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2550.00</s:price>
+      <s:sku>irSPRcarJO3GL3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747508572258</id>
+    <published>2022-08-11T13:04:05+08:00</published>
+    <updated>2022-08-11T13:04:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/only-you"/>
+    <title>Only You</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/OnlyYou_Sub_vase.Up20200208.jpg?v=1658757684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses and Chrysanthemums</span>
+</h3>
+<div class="ewa-rteLine">When you want to tell her she is the only one for you...</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mixed Bouquet</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747508572258</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2550.00</s:price>
+      <s:sku>irSPRoyoNA6-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747506311266</id>
+    <published>2022-08-11T13:04:04+08:00</published>
+    <updated>2022-08-11T13:04:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/allure"/>
+    <title>Allure</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Allure.jpg?v=1658923953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Red Roses and Chrysanthemums</span>
+</h3>
+<div class="ewa-rteLine">Do you ever find yourself searching for the right words to say and coming up with ... zilch? When that moment hits you, replace those missing words with this adorable multiicoloured bouquet! It's the perfect gift to break the ice or simply say hello.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mixed Bouquet</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747506311266</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2550.00</s:price>
+      <s:sku>irSPRallRF6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747513585762</id>
+    <published>2022-08-11T12:43:28+08:00</published>
+    <updated>2022-08-11T12:43:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/afterglow"/>
+    <title>Afterglow</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Afterglow-irSPRafgGL6-1_1.png?v=1658757945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses and Chrysanthemums</span>
+</h3>
+<div class="ewa-rteLine">Reminiscent of that good feeling you get watching the last few rays of the sun disappear in the horizon. Doesn't she remind you of that? Let her know your heart swells with the afterglow of her love.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mixed Bouquet</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747513585762</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2550.00</s:price>
+      <s:sku>irSPRafgGL6-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

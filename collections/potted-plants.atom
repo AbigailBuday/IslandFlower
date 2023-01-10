@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.islandrose.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.islandrose.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.islandrose.net/collections/potted-plants.atom"/>
+  <title>islandrose.net</title>
+  <updated>2022-07-27T18:13:09+08:00</updated>
+  <author>
+    <name>islandrose.net</name>
+  </author>
+  <entry>
+    <id>https://www.islandrose.net/products/6748928114786</id>
+    <published>2022-07-27T18:13:09+08:00</published>
+    <updated>2022-07-27T18:13:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/black-prince"/>
+    <title>Black Prince</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/BlackPrince_1.png?v=1658916790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Ficus Elastica (Rubber Plant)</span></p>
+<div class="ewa-rteLine">This is a popular ornamental plant that grows straight and tal  It is distinguished by its  near dark reddish leaves that compliment other green plants very well. Some believe that this plant is a symbol of wealth and financial growth!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Rubber trees are an easy-care house plant in all conditions.  Plant in a roomy pot using a well-drained, humus-rich soil we provide. Water moderately, drying slightly in between applications. </div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748928114786</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku>irPPrubBP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748925395042</id>
+    <published>2022-07-27T17:59:38+08:00</published>
+    <updated>2022-07-27T17:59:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/philodendron-green-congo"/>
+    <title>Philodendron Green Congo</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/GreenCongo_1.png?v=1658915979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div class="ewa-rteLine" data-mce-fragment="1">This plant is a mounding philodendron with beautiful thick dark green foliage  It is excellent for both landscaping and indoor because it can grow in full or partial shade. It’s sturdiness makes it a good city plant.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Keep it away from direct sunlight and give it lots of space as it grows wide.  </div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748925395042</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku>irPPphiloGC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748925001826</id>
+    <published>2022-07-27T17:57:36+08:00</published>
+    <updated>2022-07-27T17:57:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/fiddle-leaf-fig-bambino"/>
+    <title>Fiddle Leaf Fig Bambino</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/FiddleLeafFigBambino_1.png?v=1658915857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Ficus Lyrata</span><br>
+</h3>
+<div class="ewa-rteLine">Ficus Lyrata Bambino (Dwarf Fiddle Leaf Fig) is a popular small ornamental tree. It has oval-shaped leaves that grows in different sizes and has a glossy appearance  Perfect for accentuating empty corners of a house or garden!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">It prefers bright, indirect light but can tolerate some light shade and some direct (but not harsh or midday) morning or afternoon sunlight.  Keep the soil watered but well drained for best results.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748925001826</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku>irPPfidLB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748916318306</id>
+    <published>2022-07-27T16:55:45+08:00</published>
+    <updated>2022-07-27T16:55:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/tetrasperma-mini"/>
+    <title>Tetrasperma Mini</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RhaphidophoraTetraspermaMini_1_1.png?v=1658912146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Rhaphidophora</span>
+</h3>
+<div class="ewa-rteLine">Although coming from an entirely different plant family, this plant is famous for being the mini version of the popular Monstera.  It is a very rare and unique plant coming from the jungles of Thailand and Malaysia. It loves tropical conditions and is easy to care for in our climate.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Because these plants thrive in diffused bright light, keeping them out of direct sunlight is best.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt-finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748916318306</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1250.00</s:price>
+      <s:sku>irPPrhaTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748916088930</id>
+    <published>2022-07-27T16:52:20+08:00</published>
+    <updated>2022-07-27T16:52:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/pedatum"/>
+    <title>Pedatum</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/PhilodendronPedatum_1_1.png?v=1658911941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Philodendron</span>
+</h3>
+<div class="ewa-rteLine">This plant has broad green leaves with beautiful shapes.  It has an abstract foliage shape that grows wide and is great for filling out empty spaces in your home or apartment.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">It is best kept in bright areas with well-watered but drained soil to keep it healthy and green.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt-finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748916088930</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1250.00</s:price>
+      <s:sku>irPPphiloPed</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748413493346</id>
+    <published>2022-07-26T18:00:35+08:00</published>
+    <updated>2022-07-26T18:00:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/green-princess"/>
+    <title>Green Princess</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/PhilodendronGreenPrinces_1_1.png?v=1658829635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Philodendron</span>
+</h3>
+<div class="ewa-rteLine">A compact Philodendron with gorgeous deep-green, glossy oval leaves. This study indoor plant grows to a limited height of only 50-60cm so it is good for smaller rooms or condos. </div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Best kept in moderate to bright, indirect light. Keep evenly moist – re-water when the top of inch of the soil has dried out. Apply feed in spring/summer and mist frequently. Avoid cold draughts.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748413493346</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1500.00</s:price>
+      <s:sku>irPPphiloGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748413198434</id>
+    <published>2022-07-26T17:58:46+08:00</published>
+    <updated>2022-07-26T17:58:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/altissima-gold"/>
+    <title>Altissima Gold</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/FicusAltissima_1_1.png?v=1658829526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Ficus</span>
+</h3>
+<div class="ewa-rteLine">This bold, variegated Rubber Tree displays large, leathery, elliptic green-centered leaves. It can develop into a large tree-houseplant slowly with age.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Rubber trees are an easy care house plant in all conditions.  Plant in a roomy pot using a well-drained, humus-rich soil we provide. Water moderately, drying slightly in between applications. </div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748413198434</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1250.00</s:price>
+      <s:sku>irPPficusAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748413067362</id>
+    <published>2022-07-26T17:56:59+08:00</published>
+    <updated>2022-07-26T17:56:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/green-dot"/>
+    <title>Green Dot</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/BegoniaRexGreenDot_1_1.png?v=1658829419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Begonia Rex</span>
+</h3>
+<div class="ewa-rteLine">These tropical plants are prized for their patterned and intriguing shapely leaves.  They are best in shady gardens or as indoor plants. A beautiful addition to any home!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Give them a little sunlight each day and water them thoroughly when dry and enjoy watching them grow!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748413067362</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">950.00</s:price>
+      <s:sku>irPPBegRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748412674146</id>
+    <published>2022-07-26T17:51:21+08:00</published>
+    <updated>2022-07-26T17:51:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-allure"/>
+    <title>Red Allure</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/AglaonemaRedAllure.png?v=1658829082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Aglaonema</span>
+</h3>
+<div class="ewa-rteLine">Aglaonema is also popularly known as a the Chinese evergreen.  The allure of these plants is their red contrasting colors of its foliage that will definitely catch the attention of anyone who sees it!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">These plants do well in both partial and full shade. as such, you can keep them indoors away from windows as long as there are indoor lights.  </div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Plants come in Matt finished rubberized plastic pots ready for display.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748412674146</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1250.00</s:price>
+      <s:sku>irPPaglarall</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748412379234</id>
+    <published>2022-07-26T17:48:27+08:00</published>
+    <updated>2022-07-26T17:48:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/birkin"/>
+    <title>Birkin</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Birkin180422_1.jpg?v=1658828907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Philodendron</span>
+</h3>
+<div class="ewa-rteLine">The Philodendron Birkin is a rare and gorgeous houseplant with distinctive green leaves with white pinstripes. Birkins are easy to care for, prefer a warm and humid environment, and thrive in medium to bright, indirect sunlight. A must for plant lovers!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748412379234</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1950.00</s:price>
+      <s:sku>irPPphilbir</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748409757794</id>
+    <published>2022-07-26T17:36:10+08:00</published>
+    <updated>2022-07-26T17:36:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/monstera-deliciosa"/>
+    <title>Monstera Deliciosa</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/MonsteraDeliciosa_1.png?v=1658828170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ewa-rteLine" data-mce-fragment="1">The Monstera Deliciosa is a tropical plant also known as the Swiss Cheese plant, Split-Leaf Philodendron, or Mexican Breadfruit, among many other names. Its name comes from a Latin word meaning “abnormal” because of its unique, odd-looking, and perforated leaves that are often punched through with holes. This unique and vibrant houseplant is best for living and dining room spaces as it makes for a very interesting conversational piece.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748409757794</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1950.00</s:price>
+      <s:sku>irPPmonsd</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748408381538</id>
+    <published>2022-07-26T17:34:09+08:00</published>
+    <updated>2022-07-26T17:34:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/umbellata"/>
+    <title>Ficus Umbrellata</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/FicusUmbellata.png?v=1658828049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <span data-mce-fragment="1"></span>The Ficus Umbellata has an elegant, tall stem and large emerald green heart-shaped leaves. It’s a little different from its cousin, the Fiddle-Leaf Fig, but it grabs just as much attention and is a little easier to take care of. It's a very interesting houseplant for any collection – particularly if you like to collect from the Ficus or Fig family of large houseplants.</p>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748408381538</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2150.00</s:price>
+      <s:sku>irPPfumbe</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748406448226</id>
+    <published>2022-07-26T17:30:53+08:00</published>
+    <updated>2022-07-26T17:30:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/ruby-rubber-plant"/>
+    <title>Ruby Rubber Plant</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RubberPlant180422_1.jpg?v=1658827853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Ficus Elastica Ruby</span>
+</h3>
+<div class="ewa-rteLine">The Ruby Rubber plant is a popular ornamental plant from the Ficus genus. In its natural habitat it grows very tall. However, the varieties grown indoors are a much more manageable height. Native to tropical regions of India and Malaysia, its unique tri-colored variegation requires brighter light conditions to make sure the colors stay strong and defined.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Potted Plants</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748406448226</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1950.00</s:price>
+      <s:sku>irPPfruby</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

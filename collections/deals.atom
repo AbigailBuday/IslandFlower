@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.islandrose.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.islandrose.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.islandrose.net/collections/deals.atom"/>
+  <title>islandrose.net</title>
+  <updated>2022-11-07T15:03:26+08:00</updated>
+  <author>
+    <name>islandrose.net</name>
+  </author>
+  <entry>
+    <id>https://www.islandrose.net/products/6808958009442</id>
+    <published>2022-11-07T15:03:26+08:00</published>
+    <updated>2022-11-07T15:03:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/circle-of-friends"/>
+    <title>Circle of Friends</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/CircleofFriends.jpg?v=1667804591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Nine Single-Stem Rose Arrangements</h3>
+<p>Everyone has that special Circle of Friends that they truly rely on day in and day out. Thank them for being in your life, making you laugh on good days, and having your back on not-so-good days.</p>
+<p>Get 9 separate single-stem arrangements delivered to your address so you can give them personally to your circle of friends!</p>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"></div>
+<div class="ewa-rteLine">
+<meta charset="utf-8"> <span>**Island Rose offers next-day delivery nationwide! Same-day delivery is available in Metro Manila.</span>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:tag>Deals</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6808958009442</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2760.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748341076066</id>
+    <published>2022-07-26T16:25:09+08:00</published>
+    <updated>2022-07-26T16:25:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/hearfelt"/>
+    <title>Heartfelt</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Heartfelt-teddy-bear-white-roses-philippines.jpg?v=1658824022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1476.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Customized Bear with Three White Roses</span>
+</h3>
+<p><span data-mce-fragment="1">We sometimes forget to say "sorry" to those we've hurt badly.  Send your deepest apologies and </span>mend the broken relationship. Saying sorry should be this easy. Send a peace offering now!</p>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Special add-on gift items are available upon checkout.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:tag>Deals</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748341076066</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1476.00</s:price>
+      <s:sku>irPAC9roSTU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748340387938</id>
+    <published>2022-07-26T16:23:54+08:00</published>
+    <updated>2022-07-26T16:23:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/group-hug"/>
+    <title>Group Hug</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/grouphug2nd.jpg?v=1658823834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Five Sets of Three Long Stem Roses</span>
+</h3>
+<p>Do you have a lot of love to give? Here is teh perfect deal to save the day! Get five sets of 3 stem roses bouquets delivered to your address so you can give them personally to your family, friends, and colleagues!</p>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Vase is not included. Special add-on gift items are available upon checkout.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"></div>
+<div class="ewa-rteLine">
+<meta charset="utf-8">
+<span>**Island Rose offers next day delivery nationwide! Same day delivery is available in Metro Manila.</span>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:tag>Deals</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748340387938</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2760.00</s:price>
+      <s:sku>irROcomAstd15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748337078370</id>
+    <published>2022-07-26T16:18:11+08:00</published>
+    <updated>2022-07-26T16:18:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/white-delight"/>
+    <title>White Delight</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/white-delight-flowers-philippines-12-2017-2.jpg?v=1658823492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses in a Box with a Mini Bear</span>
+</h3>
+<div class="ewa-rteLine">Do you want to see her eyes twinkle in delight? Surprise her with this gorgeous box of white roses and an adorable bear! Place your orders now!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748337078370</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac57RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748331278434</id>
+    <published>2022-07-26T16:13:54+08:00</published>
+    <updated>2022-07-26T16:13:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/secret-admirer"/>
+    <title>Secret Admirer</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/secret-admirer-flowers-philippines-12-2017-2.jpg?v=1658823235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Box of Red and White Roses with Mini Bear</span></p>
+<div class="ewa-rteLine">Are you in love? We've got just the thing for you! Send her our secret admirer gift package, an unforgettable gift to show how much you care.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748331278434</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac62RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748325118050</id>
+    <published>2022-07-26T16:10:31+08:00</published>
+    <updated>2022-07-26T16:10:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/two-messenger-bears"/>
+    <title>Soul Mates</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/SoulMates.png?v=1658823032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1710.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Two Messenger Bears™</span></p>
+<div class="ewa-rteLine">What a wonderful way to remind the love of your life of your perfect pairing!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Basket and other accessories are not included.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your gifts on time! If certain items unexpectedly become unavailable, Island Rose will replace them with items of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page or social media or email us for updates.</div>
+<p><span data-mce-fragment="1"><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748325118050</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1710.00</s:price>
+      <s:sku>irpac126SMFstu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748320727138</id>
+    <published>2022-07-26T16:08:07+08:00</published>
+    <updated>2022-07-26T16:08:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/bear-buddies"/>
+    <title>Bear Buddies</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/BearBuddies.png?v=1658822887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1345.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Five Mini Bears</span>
+</h3>
+<div class="ewa-rteLine">It's a Mini Bear convention! Collect these cute little bears to give away, to represent significant people in your life, or simply to keep you in adorable company!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Basket and other accessories are not included.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your gifts on time! If certain items unexpectedly become unavailable, Island Rose will replace them with items of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page or social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748320727138</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1345.50</s:price>
+      <s:sku>irpac125BBFstu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748315484258</id>
+    <published>2022-07-26T16:04:48+08:00</published>
+    <updated>2022-07-26T16:04:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/bear-y-happy-family"/>
+    <title>Bear-y Happy Family</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Bear-yHappyFamily.png?v=1658822672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2248.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Two Messenger Bears™ and Two Mini Bears</span>
+</h3>
+<div class="ewa-rteLine">Time for a Bear Sale in the "Ber Months of the year!</div>
+<div class="ewa-rteLine"></div>
+<div class="ewa-rteLine">The perfect addition to your collection of family photos and memorabilia! One happy bear to represent each member of the family!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Basket and other accessories are not included.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your gifts on time! If certain items unexpectedly become unavailable, Island Rose will replace them with items of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page or social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748315484258</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2248.20</s:price>
+      <s:sku>irpac124BHFstu</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748311519330</id>
+    <published>2022-07-26T16:00:49+08:00</published>
+    <updated>2022-07-26T16:00:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-delight"/>
+    <title>Red Delight</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/red-delight-flowers-philippines-12-2017-2.jpg?v=1658822450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 class="ewa-rteLine" data-mce-fragment="1">
+<meta charset="utf-8">
+<span>Box of Red Roses with Mini Bear</span>
+</h3>
+<div class="ewa-rteLine" data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Celebrate special days with a box of red roses and a charming bear! This package is perfect when you want to remind someone how special they are. Delight someone with this gift now!</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine" data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div class="ewa-rteLine" data-mce-fragment="1">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748311519330</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac56RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

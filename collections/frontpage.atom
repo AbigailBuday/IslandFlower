@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.islandrose.net/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.islandrose.net/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.islandrose.net/collections/frontpage.atom"/>
+  <title>islandrose.net</title>
+  <updated>2022-08-11T13:04:06+08:00</updated>
+  <author>
+    <name>islandrose.net</name>
+  </author>
+  <entry>
+    <id>https://www.islandrose.net/products/6747511619682</id>
+    <published>2022-08-11T13:04:06+08:00</published>
+    <updated>2022-08-11T13:04:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/carnival"/>
+    <title>Carnival</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Carnival.png?v=1658757818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Pink and White Roses and Chrysanthemums</span>
+</h3>
+<div class="ewa-rteLine">It's a pastel carnival of colours with this enchanting bouquet in pink, white, yellow, green, and orange! Send warmth and kindness wrapped up in a box and let the flowers do the talking.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mixed Bouquet</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747511619682</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2550.00</s:price>
+      <s:sku>irSPRcarJO3GL3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747513585762</id>
+    <published>2022-08-11T12:43:28+08:00</published>
+    <updated>2022-08-11T12:43:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/afterglow"/>
+    <title>Afterglow</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Afterglow-irSPRafgGL6-1_1.png?v=1658757945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">White Roses and Chrysanthemums</span>
+</h3>
+<div class="ewa-rteLine">Reminiscent of that good feeling you get watching the last few rays of the sun disappear in the horizon. Doesn't she remind you of that? Let her know your heart swells with the afterglow of her love.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged and shipped in exclusive Island Rose packaging. Accessories are not included but have a look at our special add-on gift items that are available upon checkout!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mixed Bouquet</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747513585762</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">2550.00</s:price>
+      <s:sku>irSPRafgGL6-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6748331278434</id>
+    <published>2022-07-26T16:13:54+08:00</published>
+    <updated>2022-07-26T16:13:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/secret-admirer"/>
+    <title>Secret Admirer</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/secret-admirer-flowers-philippines-12-2017-2.jpg?v=1658823235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1754.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Box of Red and White Roses with Mini Bear</span></p>
+<div class="ewa-rteLine">Are you in love? We've got just the thing for you! Send her our secret admirer gift package, an unforgettable gift to show how much you care.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deals</s:tag>
+    <s:tag>Display Line</s:tag>
+    <s:tag>Gift Shop</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6748331278434</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1754.10</s:price>
+      <s:sku>irpac62RBstu-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747557789794</id>
+    <published>2022-07-25T22:46:26+08:00</published>
+    <updated>2022-07-25T22:46:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-elegance"/>
+    <title>Red Elegance</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RedElegance.jpg?v=1661412931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Pink Roses in a Red Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Elegant roses for that stylish person who deserves a "Thank You" for playing an important role in your life. This Red Elegance arrangement is the perfect way to express your gratitude and appreciation. Order one today!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery Fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747557789794</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrbrRE16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6747531804770</id>
+    <published>2022-07-25T22:21:06+08:00</published>
+    <updated>2022-07-25T22:21:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/honey"/>
+    <title>Honey</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/honey-rose-giftbox-philippines.jpg?v=1658758867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Yellow Roses in an Orange Keepsake Box</span>
+</h3>
+<div class="ewa-rteLine">Cheer them up with something bright and beautiful! These yellow roses are guaranteed to put a smile on someone's face!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Display Line</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6747531804770</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1650.00</s:price>
+      <s:sku>irROrboHO16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6746972422242</id>
+    <published>2022-07-25T10:45:51+08:00</published>
+    <updated>2022-07-25T10:45:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/cool-water"/>
+    <title>Cool Water</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/Coolwater-MainPhoto.jpg?v=1658923823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>One Dozen Long Stem Lavender Roses</h3>
+<p>Enchanting and elegant best describe these lavender roses. This rare flower variety is especially bred for designer brand Davidoff and exclusively grown by selected farms around the world. Someone amazing deserves a bouquet that's equally unique as her. Send this special set of lavender roses today!<br></p>
+<p><br data-mce-fragment="1">Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br data-mce-fragment="1"><br data-mce-fragment="1">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br data-mce-fragment="1"><br data-mce-fragment="1">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br data-mce-fragment="1"><br data-mce-fragment="1">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6746972422242</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1750.00</s:price>
+      <s:sku>irROsolCWl12-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6746892271714</id>
+    <published>2022-07-25T01:10:16+08:00</published>
+    <updated>2022-07-25T01:10:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/white-naomi"/>
+    <title>White Naomi</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/naomi-1dozen-flowers-philippines.jpg?v=1658682616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>One Dozen Long Stem White Roses</h3>
+<p>Introducing the newest member of our family! Naomi has beautiful large white buds that represents candour and sincerity. This flower bouquet has an extraordinary beauty that is as captivating as the vast clear sky. Without a doubt, this Naomi Rose arrangement is the perfect surprise for your loved one!<br><br>Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.<br><br>Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping! <br><br>*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.<br><br>**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6746892271714</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1750.00</s:price>
+      <s:sku>irROsolNAl12-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.islandrose.net/products/6746849968226</id>
+    <published>2022-07-24T22:43:27+08:00</published>
+    <updated>2022-07-24T22:43:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.islandrose.net/products/red-france"/>
+    <title>Red France</title>
+    <s:type></s:type>
+    <s:vendor>islandrose.net</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0562/0062/6274/products/RedFrance-MainPhoto.jpg?v=1658926476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>islandrose.net<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<meta charset="utf-8">
+<span data-mce-fragment="1">One Dozen Long Stem Red Roses</span>
+</h3>
+<div class="ewa-rteLine">Knock her off her feet and make her fall in love over and over again. Its vibrant red color is what the world uses to say "I love you". A favorite among all roses! A rose by which all others are measured, this elegant flower will never fail to impress. Definitely a classic!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Flowers are arranged in exclusive Island Rose packaging and delivered in special gift boxes. Vase is not included. Special add-on gift items are available upon checkout.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Absolutely no hidden fees! For your convenience, all our prices already include Service Charges, Taxes, and Delivery fees. Happy Shopping!</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">*Our priority is to deliver your flowers on time! If certain flowers unexpectedly become unavailable, Island Rose will replace them with flowers of equal or greater value.</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">**Due to COVID-19, deliveries are limited to Metro Manila and a few provinces. Please refer to our home page and social media or email us for updates.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouquets</s:tag>
+    <s:variant>
+      <id>https://www.islandrose.net/products/6746849968226</id>
+      <title>Default Title</title>
+      <s:price currency="PHP">1750.00</s:price>
+      <s:sku>irROsolRF12-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
